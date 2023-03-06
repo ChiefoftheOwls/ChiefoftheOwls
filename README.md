@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elyon Olaniran
-- 🌱 I’m currently a Front-end Software Engineer
+- 🌱 I’m currently a Software / DevOps Engineer
 - 💞️ I’m looking to collaborate on any software that aims at improving accessibilty!
 - 📫 i'm available at my email: elyonolaniran@outlook.com  or eaolaniran@gmail.com
 
